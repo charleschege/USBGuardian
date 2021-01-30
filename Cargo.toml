@@ -1,0 +1,9 @@
+[package]
+name = "usbguardian"
+version = "0.1.0"
+authors = ["Charles Chege <charleschege@protonmail.ch>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.38"
+udev = "0.5.1"
